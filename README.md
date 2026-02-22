@@ -5,7 +5,6 @@ I'm [**Aisha**](https://aishafm.vercel.app/), a software engineer and artist in 
 
 I currently work as a software engineer at **NatWest**
 
----
 
 ###  Fun Facts (questionable but true)
 
@@ -13,15 +12,13 @@ I currently work as a software engineer at **NatWest**
 * I rename files to `final_final_v2_reallyfinal`.
 * I don’t always know what I’m doing — but I do it confidently.
 * My best ideas arrive right after I close my laptop.
----
 
-### 🎯 Current Goals
+
+###  Current Goals
 
 * Write clean code
 * Understand my own code
 * Achieve inner peace (optional)
-
----
 
 #### Let’s connect!
 
