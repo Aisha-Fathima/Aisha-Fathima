@@ -14,12 +14,6 @@ I currently work as a software engineer at **NatWest**
 * My best ideas arrive right after I close my laptop.
 
 
-###  Current Goals
-
-* Write clean code
-* Understand my own code
-* Achieve inner peace (optional)
-
 #### Let’s connect!
 
 If you like sarcasm, bad jokes, and projects that start strong and end… mysteriously, we’ll get along just fine.
