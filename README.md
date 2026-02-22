@@ -7,23 +7,12 @@ I currently work as a software engineer at **NatWest**
 
 ---
 
-### 🧠 Fun Facts (questionable but true)
+###  Fun Facts (questionable but true)
 
 * I talk to my code like it can hear me.
 * I rename files to `final_final_v2_reallyfinal`.
 * I don’t always know what I’m doing — but I do it confidently.
 * My best ideas arrive right after I close my laptop.
-
----
-
-### 💻 My Commit Energy
-
-I push code like:
-
-* **"quick fix"** → 47 changed files
-* **"small update"** → emotional damage
-* **"final version"** → never the final version
-
 ---
 
 ### 🎯 Current Goals
