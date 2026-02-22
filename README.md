@@ -1,8 +1,9 @@
-## 👋 Hi there
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-i'm Aisha a software engineer at NatWest. I write code and recount life.
+I'm [**Aisha**](https://aishafm.vercel.app/), a software engineer and artist in Bangalore.
 
-I’m the kind of person who says *“this will only take 5 minutes”* and then disappears into a debugging spiral for three hours. I believe in clean code, but my commit history tells a more chaotic story.
+
+I currently work as a software engineer at **NatWest**
 
 ---
 
