@@ -9,12 +9,12 @@ I'm fascinated by large-scale, high-impact products, like search systems, recomm
 
 Outside of work, I'm interested in following the developments of science. I make [art](https://aishafm.tumblr.com/), play video games and pretend I am a [photographer](https://in.pinterest.com/aisha_fathima/skiee/) .
 
-###  Fun Facts (questionable but true)
+###  Fun Facts 
 
-* I talk to my code like it can hear me.
-* I rename files to `final_final_v2_reallyfinal`.
-* I don’t always know what I’m doing — but I do it confidently.
-* My best ideas arrive right after I close my laptop.
+* I talk to my code like it’s a teammate.
+* Every project has at least three “final” versions.
+* I debug by staring at the screen until clarity appears.
+* My best ideas arrive after I’ve already closed my laptop.
 
 
 #### Let’s connect!
