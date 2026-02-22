@@ -3,7 +3,7 @@
 I'm [**Aisha**](https://aishafm.vercel.app/), a software engineer and artist in Bangalore.
 
 
-I currently work as a software engineer at **NatWest**
+I currently work as a software engineer at [**@NatWest**](https://github.com/natwest)
 
 I'm fascinated by large-scale, high-impact products, like search systems, recommendation engines, or platforms that millions of people rely on every day without even thinking about them.
 
