@@ -7,7 +7,7 @@ I currently work as a software engineer at [**@NatWest**](https://github.com/nat
 
 I'm fascinated by large-scale, high-impact products, like search systems, recommendation engines, or platforms that millions of people rely on every day without even thinking about them.
 
-Outside of work, I'm interested in following the developments of science. I make [art](https://aishafm.tumblr.com/), play video games and pretend I am a [photographer](https://in.pinterest.com/aisha_fathima/skiee/) .
+Outside of work, I'm interested in following the developments of science. I make [art](https://aishafm.tumblr.com/), play video games and pretend I am a [photographer](https://in.pinterest.com/aisha_fathima/skiee/).
 
 
 
