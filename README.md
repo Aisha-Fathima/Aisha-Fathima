@@ -20,7 +20,7 @@ Outside of work, I'm interested in following the developments of science. I make
 
 #### Let’s connect!
 
-If you like sarcasm, bad jokes, and projects that start strong and end… mysteriously, we’ll get along just fine.
+If sarcasm and building cool things sound like a good time, we’ll get along just fine.
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@aishafathimamohammed)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/aisha-fathima-mohammed/)
