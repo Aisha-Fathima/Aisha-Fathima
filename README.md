@@ -11,11 +11,6 @@ Outside of work, I'm interested in following the developments of science. I make
 
 
 
-####  Fun Facts 
-
-* I talk to my code like it can hear me.
-* Every project has at least three “final” versions.
-* I debug by staring at the screen until clarity appears.
 
 
 #### Let’s connect!
